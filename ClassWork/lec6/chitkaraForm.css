@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("Chitkara_University_pic.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top: 4px solid red;
+}
+.top-img{
+    position:fixed;right:20px;
+}
+.main {
+    background-color: white;
+    width: 280px;
+    height: 550px;
+    margin-left:967px;
+    margin-top:85px;
+}
+
+.img {
+    width: 280px;
+    height: 150px;
+}
+
+.form {
+    width: 200px;
+    height: 400px;
+    margin-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.img img {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.values input {
+    width: 220px;
+    height: 22px
+}
+
+.values {
+    padding-bottom: 8px;
+}
+
+.select {
+    width: 225px;
+    height: 23px;
+    font-size: 12px;
+    border: 1px solid #7f9db9;
+    margin-top: 5px;
+    margin-bottom:5px;
+}
+.remPass{
+    font-size:13px;
+    margin-top:3px;
+}
+button{
+    background-color:rgba(194,51,41,255);
+    height:35px;
+    border:none;
+    color:white;
+    width:225px;
+    font-size:17px;
+    margin-top:10px
+}
+.forget{
+    font-size:13px;
+    text-decoration:none;
+    color:black;
+    font-weight:400;
+}
+.Policy{
+    font-size:13px;
+    margin-top:10px;
+    padding:1px;
+}
+.icons{
+    margin-top:9px;
+}
+.icons img{
+    padding-left:40px
+}
+h5{padding-left:25px}
+.img-foot{
+    padding-top:10px;
+    padding-left:10px;
+}
