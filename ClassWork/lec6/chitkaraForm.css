@@ -7,10 +7,11 @@ body {
     background-image: url("Chitkara_University_pic.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    border-top: 4px solid red;
+    border-top: 5px solid red;
+    
 }
 .top-img{
-    position:fixed;right:20px;
+    position:relative;left:1450px;top:-4px;
 }
 .main {
     background-color: white;
