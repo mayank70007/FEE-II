@@ -1,0 +1,24 @@
+*{
+    font-size:20px;
+    font-family:sans-serif;
+}
+h1{
+    color:red;
+    border:2px solid green;
+}
+#heading{
+    color:blueviolet;
+}
+.fruits{
+    color:rgb(112, 39, 52);
+}
+input[placeholder="123456@gamil.com"]{
+    background-color:lightslategrey;
+    color:red;
+}
+[type="password"]{
+    background-color:green;
+}
+::placeholder{
+    color:red;
+}
